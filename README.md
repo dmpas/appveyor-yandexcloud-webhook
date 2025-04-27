@@ -9,3 +9,10 @@
 Формируется ссылка вида
 
 `https://storage.yandexcloud.net/{Имя корзины}/{Имя проекта в AppVeyor}/{ветка}/{ИД платормы (или имя образа)}/{Имя артефакта}`
+
+
+# Ссылки
+
+https://www.appveyor.com/docs/environment-variables/
+
+https://www.appveyor.com/docs/deployment/webhook/
